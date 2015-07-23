@@ -4,9 +4,9 @@ Tento projekt upravuje pôvodné rozšírenie pre prepojenie [Superfaktúry](htt
 
 ## Autor(i)
 
-* Matúš Marcin (matusmarcin.com) - verzia 2
+* [Matúš Marcin](matusmarcin.com) - verzia 2
 * Michal Urva (Magic Stores s.r.o.) - verzia 1.4
-* Adrián Mihálko (opencart.mihalko.eu) - verzia 1
+* [Adrián Mihálko](opencart.mihalko.eu) - verzia 1
 
 ## Inštalácia
 
