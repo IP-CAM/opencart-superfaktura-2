@@ -1,6 +1,6 @@
 # OpenCart vQmod pre fakturáciu cez Superfaktura.sk
 
-Tento projekt upravuje pôvodné rozšírenie pre prepojenie Superfaktúry a OpenCartu pre využitie na OpenCart 2.0+. Testované a nasadené na OpenCart 2.0.1.1.
+Tento projekt upravuje pôvodné rozšírenie pre prepojenie [Superfaktúry](http://www.superfaktura.sk/#1q0txdb8dsiuvm3o) a [OpenCartu](http://www.opencart.com/) pre využitie na OpenCart 2.0+. Testované a nasadené na OpenCart 2.0.1.1.
 
 ## Autor(i)
 
